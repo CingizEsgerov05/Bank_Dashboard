@@ -1,4 +1,4 @@
-# Bank_Dashboard
+# Bank Dashboard
 
 ## Problem Statement
 
